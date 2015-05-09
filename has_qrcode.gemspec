@@ -22,5 +22,5 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency "zxing", "~> 0.3.1"
   
   gem.add_dependency "activerecord", "~> 3.0"
-  gem.add_dependency "mini_magick", "~> 3.4"
+  gem.add_dependency "mini_magick", "~> 4.2.1"
 end
