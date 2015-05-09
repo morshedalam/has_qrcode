@@ -21,6 +21,6 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency "jruby-jars", "~> 1.6.7.2"
   gem.add_development_dependency "zxing", "~> 0.3.1"
   
-  gem.add_dependency "activerecord", "~> 3.0"
+  gem.add_dependency "activerecord", "~> 4.1.0"
   gem.add_dependency "mini_magick", "~> 4.2.1"
 end
